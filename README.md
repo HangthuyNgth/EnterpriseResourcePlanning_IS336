@@ -38,7 +38,7 @@
 
 ## 📽️ Tài liệu trình bày & demo
 - Video minh họa: [YouTube Link](https://www.youtube.com/watch?v=Ufe44irxCsk)
-
+- Báo cáo: [Word_Link](https://drive.google.com/file/d/10mNxEYkefTIDPtlKttt2rKUEJbg8S6Rf/view?usp=sharing)
 ## 📂 Cấu trúc tài liệu
 - **Tổng quan đề tài**
 - **Lý do hình thành & mục tiêu**
